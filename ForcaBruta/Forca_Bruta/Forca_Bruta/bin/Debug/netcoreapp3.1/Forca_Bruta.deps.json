@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Forca_Bruta/1.0.0": {
+        "runtime": {
+          "Forca_Bruta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forca_Bruta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
